@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+__author__ = 'Marco Fossati'
+__email__ = 'mfossati@wikimedia.org'
+
 from numpy import argmax, ndarray
 from tensorflow.keras import models
 from tensorflow.keras.models import Model

@@ -4,7 +4,6 @@
 __author__ = 'Marco Fossati'
 __email__ = 'mfossati@wikimedia.org'
 
-
 from numpy import ndarray
 from PIL import Image
 from tensorflow.keras.applications.mobilenet import preprocess_input
